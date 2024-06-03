@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8"> 
+		<link rel="stylesheet" href="nav1.css">
+	</head>
+	
+	<body>
+			<div class="life" >
+						<h1 align=center>工作經歷</h1>
+						<hr style="border: 5px solid #586D80;border-radius: 6px;"></hr>
+					<div class="container">
+					<div class="border-box">
+
+							<div class="lifeboxtitle">
+							
+									<h1>工作經歷 — COLD STONE</h1>
+							</div>
+							<div class="lifeboxbottom">
+									<img src="photo/schoolwork13.jpg"  
+									style="float:left;width:40%;vertical-align:center;border: 12px double #8E9BAE;border-radius:20px;margin-right:8%;">
+									<ul style="list-style-type:square;">
+										<h5 ><li>職稱：門市人員 </li></h5>
+											<ul style="list-style-type:circle;"><h5 style="font-size:25px;">
+															<li>顧客服務、產品準備</li>												
+															<li>庫存管理：確保各材料的充足供應。</li>
+															<li>團隊合作：在高峰期有效分工合作。</li>
+											</h5></ul>
+									</ul>
+							</div>
+						</div>
+					</div>
+					
+					<div class="container">
+					<div class="border-box">
+
+							<div class="lifeboxtitle">
+							
+									<h1>曾經在工作上遇到過什麼困難</h1>
+							</div>
+							<div class="difboxbottom" align="center">
+									<table  id="difbox" border=1 >
+										<tbody align="center" style="padding:1% 0% 1% 0%";>
+											<colgroup>
+												<col class="tabledif">
+												<col class="tabledif2">
+											</colgroup>
+											<tr>
+											  <td style="	font-size:25px;color:#586D80;text-align:center;">內容</td>
+											  <td>因當時只有我一人上班，人手不足且大量顧客湧入，一位顧客前來投訴覺得<span style="color:#CC5F5A;">排隊等候時間過長。</span>
+													這位顧客顯得非常不滿，聲音也有些激動，這引起了店內其他顧客的注意。
+													 她認為這樣的等待讓她對我們的服務感到失望，因此提出抱怨。</td>
+											</tr>
+											<tr> <td  style="	font-size:25px;text-align:center;color:#586D80;">解決方法</td>
+													<td>
+															<ol style="color:#CC5F5A;">
+																<h5 style="line-height:35px";><li><span style="color:#CC5F5A;">冷靜處理並傾聽</span>：耐心聆聽該顧客的問題，讓她感受到我的重視。</li>
+																		 <li><span style="color:#CC5F5A;">表達歉意和同理心</span>：向顧客表示誠摯的歉意，並認同她的感受。</li>
+																		 <li><span style="color:#CC5F5A;">行動解決</span>：告知顧客確切需等候時間，詢問該顧客是否願意先在客席區等候。</li>
+																		 <li><span style="color:#CC5F5A;">維持營運服務</span>：先安撫該顧客，並盡速服務後方排隊顧客。</li>
+																		 <li><span style="color:#CC5F5A;">請示店長</span>：向店長報告事件狀況及目前情況。</li>
+																		 <li><span style="color:#CC5F5A;">後續跟進</span>：是否願意留下聯絡方式，由主管親自致電並提供補償方法。</li>
+																</h5></ol>
+													</td>
+											</tr>
+									</table>
+							</div>
+						</div>
+					</div>
+					
+					<div class="container">
+					<div class="border-box">
+
+							<div class="lifeboxtitle">
+							
+									<h1>在工作中學習到什麼</h1>
+							</div>
+							<div class="learnboxbottom" align="center" style="line-height:35px";>
+									<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:22px;">▷ 突發問題解決：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我學會了如何迅速應對和妥善處理突發問題，
+									例如客訴或其他特殊情況。面臨顧客的抱怨或突發狀況時，我能夠冷靜分析，迅速找到解決方案，並以專業和友善的態度進行溝通，
+									最終確保顧客滿意。這不僅提高了我的問題解決能力，還增強了我的應變能力。</span>
+									</h5></div>
+									<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:22px;">▷ 顧客互動：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通過與顧客的良好互動，在與顧客交流的過程中，
+									我學會了傾聽他們的需求，理解他們的期望，並提供個性化的服務，大幅提升顧客滿意度。
+									</h5></div>
+									<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:22px;">▷ 效率與精確性：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我能夠在高峰期保持高效率的工作狀態，並確保所有訂單的精確性。在繁忙的工作環境中，我學會了如何有效地管理時間，合理安排任務，並保持專注，
+									從而快速且準確地完成每一筆訂單。這不僅提升了我的工作效率，還確保了顧客在忙碌時段依然能夠得到優質的服務。
+									</h5></div>
+							</div>
+						</div>
+					</div>
+					<br><br><br><br>			
+						
+			</div>
+	</body>
+</html>
