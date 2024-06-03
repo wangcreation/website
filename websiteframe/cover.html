@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8"> 
+    <title>無標題文件</title>
+			<style>
+				body {
+						background-image: url(nav1/photo/cover.jpg);
+						background-position: center;
+						background-repeat: no-repeat;
+						background-size: cover;
+						height: 100vh;
+						overflow-y: hidden;
+						margin: 0;
+						padding: 0;
+						display: flex;
+						flex-direction: column;
+						justify-content: center;
+						align-items: flex-start;
+					}
+				#covertitle {
+					margin:7% 10% 0% 30%;
+					width: 45%;
+					padding: 20px;
+					text-align: center;
+					z-index: 3;
+					position: relative;
+					animation: fade 3s ;
+				}
+				@keyframes fade {
+						from {
+							opacity: 0;
+						}
+						to {
+							opacity: 1;
+						}
+					}
+				h7{
+					font-family:Times New Roman;
+					font-size:7vw;
+					letter-spacing: 0.2vw;
+					color:#8E9BAE;
+					text-align:left;
+					text-indent:0.5vw;
+					word-wrap: break-word;
+					font-weight:900; 
+				}
+			</style>
+</head>
+<body >
+    <div id="covertitle"><h7 >Welcome To</h7></div>
+	<div id="covertitle" style="margin:2% 10% 10% 45%;"><h7>My Website</h7></div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+   ul.drop-down-menu {
+        display: inline-block;
+        font-family:微軟正黑體;
+        font-size: 1.5vw;
+
+    }
+	
+    ul.drop-down-menu li {
+        position: relative;
+        white-space: nowrap;
+        border-right: #ccc 2px solid;
+
+    }
+	
+    ul.drop-down-menu > li {
+        float: left; /* 只有第一層是靠左對齊*/
+    }
+
+     ul.drop-down-menu a {
+        background-color: #fff;
+        color: #333;
+        display: block;
+        padding: 0vw 1vw 1.5vw ;
+        text-decoration: none;
+        line-height: 3.2vw;
+
+	    z-index: 1000;
+
+    }
+    ul.drop-down-menu a:hover { /* 滑鼠滑入按鈕變色*/
+        background-color: #9297AB;
+        color: #fff;
+    }

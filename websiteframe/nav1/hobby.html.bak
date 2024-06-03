@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8"> 
+		<link rel="stylesheet" href="nav1.css">
+	</head>
+	
+	<body>
+
+			<div class="hobby" >
+						<h1 align=center>興趣及休閒活動</h1>
+						<hr style="border: 5px solid #586D80;border-radius: 6px;"></hr>
+						<table  id="drawbox" border=1 align="center";>
+										<tbody align="center" style="padding:1% 0% 1% 0%";>
+											<tr style="background:white";>
+												<td style="font-size:2.3vw;color:#586D80;text-align:center;">粉彩畫</td>									  
+											</tr>
+											<tr style="background-color:#E3E7EA";>
+												<td  style="	font-size:1.7vw;text-align:left;color:#586D80;padding-left:6%;padding-top:5%;">◇ 繪畫用具：雄獅 SP-24 軟式粉彩<br>
+														
+												<img src="photo/schoolwork14.jpg"  
+													style="float:left;width:40%;vertical-align:center;border: 12px double #8E9BAE;border-radius:20px;margin:3% 2% 2% 1%;">
+												<img src="photo/schoolwork15.jpg"  
+													style="float:left;width:40%;vertical-align:center;border: 12px double #8E9BAE;border-radius:20px;margin:3% 2% 2% 3%;">
+													
+												<div class="learnboxbottom" align="center" style="line-height:2.5vw;float:left;margin:2% 8% 2% 2%;";>
+													<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:1.6vw;">▷  細心與耐心：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在粉彩畫創作過程中，我培養了高度的細心和耐心。
+													每一筆一劃都需要謹慎處理，這使我在處理細節上更加精確，能夠持續改進作品，追求完美。此外，在我的生活及工作中，
+													面對繁瑣的事物時，我都能夠保持專注，確保每個細節都得到有效處理。</h5></div>
+													<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:1.6vw;">▷  專注力：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在創作粉彩畫時，通常需要長時間的集中精神，這不只鍛鍊了我的專注力，
+													也使讓我在團隊合作時，更能夠專心聆聽和理解他人的意見，進而有效的促進與人的溝通和合作。
+													</h5></div>
+													<div class="learnbox"><h5><span style="color:#CC5F5A;font-size:1.6vw;">▷  情緒表達與管理：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粉彩畫是一種情緒宣洩和表達的方式
+													。創作過程中，我能將內心的情感傳達到畫紙上，釋放壓力，並在繁忙的生活中找到內心的平靜，有助於我更好地理解和管理自己的情緒，
+													讓我在面對壓力和挑戰時能夠保持冷靜和理性，應對各種困難。
+													</h5></div>
+												</div>
+												</td>
+											</tr>
+											
+											
+							</table>
+							<br>
+							<table  id="drawbox" border=1 align="center" style="width:90%";>
+										<tbody align="center" style="padding:1% 0% 1% 0%";>
+											<tr style="background:white";>
+												<td style="font-size:2.3vw;color:#586D80;text-align:center;">旅遊及拍攝</td>									  
+											</tr>
+											<tr style="background-color:#E3E7EA";>
+												<td  style="	font-size:1.5vw;text-align:left;color:#586D80;padding-left:6%;padding-top:1%;">
+														<h5 style="padding-left:2% ;line-height:2;	letter-spacing: 2px;text-indent:45px;padding-right:6%;">
+																<span style="color:#586D80;">旅遊</span>，讓我能夠探索世界，發現不同文化的美妙。並透過拍照記錄旅行中的珍貴瞬間，讓我在日後重溫這些美好的回憶。在獨旅過程中也讓我學習到仔細規劃、預想問題且冷靜面對突發狀況。</h5>
+														<div class="photobox6">
+														<img src="photo/schoolwork22.jpg"  style="float:left;width:35%;height:22%;">
+													
+														<div class="photobox6-2" >
+															<img src="photo/schoolwork19.jpg"  style="float:left;width:100%;height:55%;">
+															<img src="photo/schoolwork17.jpg"  style="float:left;width:100%;height:40%;margin:3% 0% 0% 0%;">
+														</div>
+														
+														<div class="photobox6-3" >
+															<img src="photo/schoolwork20.jpg"  style="float:left;width:100%;height:96.5%;">
+														</div>
+														</div>
+															
+													<div class="learnboxbottom" align="center" style="line-height:2.5vw;float:left;margin:2% 8% 2% 2%;";>
+														<div class="learntravelbox"><h5><span style="color:#CC5F5A;font-size:1.6vw;">◈ 獨立性：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在陌生的環境中，需要自行解決各種問題和挑戰。
+														透過規劃行程、處理意外情況、管理預算等，我提高了自己的自主性和獨立性，能夠獨立面對生活中的各種情況和挑戰。</h5></div>
+														<div class="learntravelbox"><h5><span style="color:#CC5F5A;font-size:1.6vw;">◈ 彈性與應變能力：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在旅行中，我學會了如何應對突發情況，
+														保持冷靜，並找到解決問題的方法。	深夜時，有醉漢透過按電鈴和拉門把，一直試圖打開我的房門，在意識到此情況後，我立即確認門鎖並撥打電話至櫃台請求協助，最後由櫃台人員將對方帶離。								
+														</h5></div>
+														<div class="learntravelbox1" style=" border-bottom:none;"><h5><span style="color:#CC5F5A;font-size:1.6vw;">◈ 規劃能力：</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;獨自旅行需要從頭到尾地規劃整個行程，包括行程安排、交通預訂、住宿安排、預算管理等。
+														在這個過程中，我學會了如何有效地制定計劃，合理安排時間，以確保行程的順利進行。在日常生活和工作中，我也同時有效地規劃我的行程，提高工作效率，並實現各個目標。
+														</h5></div>
+													
+													</div>
+												</td>
+											</tr>								
+							</table>
+							<table  id="volbox" border=1 align="center";>
+										<tbody align="center" style="padding:0% 0% 1% 0%";>
+											<tr style="background:white";>
+												<td style="font-size:2.3vw;color:#586D80;text-align:center;">志工活動</td>									  
+											</tr>
+											<tr style="background-color:#E3E7EA";>
+												<td>
+														<h5 style="font-size:1.5vw;text-align:center";>參與國小營隊志工活動，擔任課程活動設計及帶領者。</h5>
+														<table  id="volbox1" border=0.5px align="center";>
+															<tbody align="center" style="padding:0% 0% 1% 0%";>
+
+															<tr><td  style="font-size:2.1vw;text-align:center;color:#586D80;background-color:#BDC4CC;letter-spacing: 5px;">學習到的技能</td>			
+															</tr>
+															<tr> <td>
+																			<ol style="color:#CC5F5A;font-size:1.5vw;">
+																				<h5 style="line-height:3vw";>
+																						 <li><span style="color:#CC5F5A;font-size:1.6vw;">有效溝通</span>：在與國小生互動的過程中，我學會了用簡單且生動的語言來解釋複雜的概念。這不僅增進了小朋友的理解，也幫助我在表達能力上有了很大的提升。</li>
+																						 <li><span style="color:#CC5F5A;font-size:1.6vw;">團隊合作</span>：營隊活動需要與其他志工、老師密切合作。通過分工合作、相互支持，我學到了如何在團隊中發揮自己的優勢，並且共同解決問題。</li>
+																						 <li><span style="color:#CC5F5A;font-size:1.6vw;">創意教學</span>：為了讓小朋友們更有興趣參與活動，我設計了各種有趣的遊戲和互動環節，這不僅提升了我的創意能力，也讓活動變得更加豐富多彩。</li>
+																						 <li><span style="color:#CC5F5A;font-size:1.6vw;">問題解決能力</span>：面對小朋友在活動中出現的各種突發情況，我學會了如何冷靜應對、迅速解決，這極大地提升了我的臨場應變和問題解決能力。</li>
+																						 <li><span style="color:#CC5F5A;font-size:1.6vw;">時間管理</span>：營隊活動時間安排緊湊，需要合理規劃每個環節。我學會了如何有效管理時間，確保每個活動都能按時進行，並達到預期效果。</li>
+																				</h5></ol>
+																	</td>
+															</tr>
+															<tr>
+																<img src="photo/schoolwork24.jpg"  
+																		style="float:left;width:35%;vertical-align:center;border: 12px double #8E9BAE;border-radius:20px;margin:0% 2% 4% 13%;">
+																<img src="photo/schoolwork23.jpg"  
+																		style="float:left;width:25%;vertical-align:center;border: 12px double #8E9BAE;border-radius:20px;margin:0% 2% 4% 3%;">
+															</tr>
+														</table>
+												</td>
+											</tr>
+											
+							</table>
+							<br><br>
+						
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+	</body>
+</html>
